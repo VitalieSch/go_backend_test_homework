@@ -5,7 +5,7 @@ import (
 )
 
 func Add(a, b int) int {
-	return a + b //возвращаем сумму a и b
+	return a + b //возвращаем сумму переменных a и b
 }
 
 func main() {
